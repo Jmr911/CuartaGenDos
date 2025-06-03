@@ -1,6 +1,5 @@
 import 'package:cuarta2proyecto/screens/auth/sign_in_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:cuarta2proyecto/screens/auth/login_screen.dart';
 
 void main() => runApp(const MyApp());
 
